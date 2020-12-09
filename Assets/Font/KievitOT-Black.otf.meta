@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: b7ad7fc95fcffee479157e675db5df31
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KievitOT
+  fontNames:
+  - KievitOT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f03d82017bb549418360055bbd1cfe6, type: 3}
+  - {fileID: 12800000, guid: 2fa23e604d3800c4f97b48bea1e4db2a, type: 3}
+  - {fileID: 12800000, guid: 0f778ab131658624ea0de3efafe92032, type: 3}
+  - {fileID: 12800000, guid: ad7946b2ea63b0f41a8355721ca19f2b, type: 3}
+  - {fileID: 12800000, guid: 75cd75453600dee45865d12332ce5da5, type: 3}
+  - {fileID: 12800000, guid: 0ad7731a5161bff4d95a69e5ef677938, type: 3}
+  - {fileID: 12800000, guid: 3afb6f2f02a4a0f48bd7f345074d23e2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

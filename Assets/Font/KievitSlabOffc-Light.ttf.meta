@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 373172711a9b0e44881e3699a8ebaeb2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kievit Slab Offc
+  fontNames:
+  - Kievit Slab Offc
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 117caf90f64025c4893690d151c02b88, type: 3}
+  - {fileID: 12800000, guid: 24224ff941560714a89c3725a0f7eea2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
